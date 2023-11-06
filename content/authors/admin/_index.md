@@ -79,8 +79,8 @@ skills:
       - name: Fishing
         description: ''
         percent: 90
-        icon: <i class="fa-solid fa-fishing-rod"></i>
-        icon_pack: fas
+        icon: fishing_pole_and_fish
+        icon_pack: emoji
       - name: PUBG
         description: ''
         percent: 100
