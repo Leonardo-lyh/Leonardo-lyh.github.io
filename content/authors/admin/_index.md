@@ -65,7 +65,7 @@ skills:
       - name: Linux
         description: ''
         percent: 70
-        icon: fa-brands fa-linux
+        icon: linux
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -79,7 +79,7 @@ skills:
       - name: Fishing
         description: ''
         percent: 90
-        icon: fishing_pole_and_fish
+        icon: fishing-rod
         icon_pack: fas
       - name: PUBG
         description: ''
