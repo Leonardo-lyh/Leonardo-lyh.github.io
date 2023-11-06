@@ -74,13 +74,13 @@ skills:
       - name: City Walk
         description: ''
         percent: 80
-        icon: walking_man
+        icon: walking
         icon_pack: fas
       - name: Fishing
         description: ''
         percent: 90
-        icon: fishing_pole_and_fish
-        icon_pack: emoji
+        icon: fish
+        icon_pack: fas
       - name: PUBG
         description: ''
         percent: 100
