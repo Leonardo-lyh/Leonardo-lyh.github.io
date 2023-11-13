@@ -62,27 +62,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Joint Research Student in AI for Material
-          company: AIR
-          company_url: ''
+        - title: Joint Research Student
+          company: Institute for AI Industry Research, Tsinghua University
+          company_url: 'https://air.tsinghua.edu.cn/'
           company_logo: org-gc
-          location: California
+          location: Beijing, China
           date_start: '2023-10-01'
           date_end: ''
-          description: 
+          description: Focus on material property prediction and generation with AI tools
         - title: Phd in Computer Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
           company_logo: org-x
-          location: Nanjing China
+          location: Nanjing, China
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
               Interested in:
-
               * Label-/Parameter-Efficient Learning
-              * Multimodal Learning
               * AI for Science
+              * Multimodal Learning  
+        - title: Master in Control Science
+          company: Nanjing University
+          company_url: 'http://www.nju.edu.cn'
+          company_logo: org-x
+          location: Nanjing, China
+          date_start: '2020-09-01'
+          date_end: '2023-06-01'
+          description: |2-
+              Interested in:
+              * Few-Shot Learning
+              * Affective Computing
+              * Computer Vision
+        - title: Under Graduate in Control Science
+          company: Nanjing University
+          company_url: 'http://www.nju.edu.cn'
+          company_logo: org-x
+          location: Nanjing, China
+          date_start: '2016-09-01'
+          date_end: '2020-06-01'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
