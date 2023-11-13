@@ -69,7 +69,7 @@ sections:
           location: Beijing, China
           date_start: '2023-10-01'
           date_end: ''
-          description: Focus on material property prediction and generation with AI tools
+          description: Interested in material property prediction and generation with AI
         - title: Phd in Computer Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
