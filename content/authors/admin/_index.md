@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李耀辉
+title: Yaohui Li
 
 # Name pronunciation (optional)
 name_pronunciation: Yaohui Li
@@ -29,11 +29,9 @@ bio: My research interests include few-shot learning, multi-modal pretraining an
 
 # Interests to show in About widget
 interests:
-  - Few-shot Learning
-  - Computer Vision
-  - Multimedia
+  - Efficient Learning
   - AI for Science
-
+  - Multimodal Learning
 # Education to show in About widget
 education:
   courses:
