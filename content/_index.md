@@ -65,7 +65,7 @@ sections:
         - title: Joint Research Student
           company: Institute for AI Industry Research, Tsinghua University
           company_url: 'https://air.tsinghua.edu.cn/'
-          company_logo: thu.jpg
+          company_logo: thu.jpeg
           location: Beijing, China
           date_start: '2023-10-01'
           date_end: ''
