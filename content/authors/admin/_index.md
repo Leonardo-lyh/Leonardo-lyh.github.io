@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李耀辉
+title: 耀辉 李
 
 # Name pronunciation (optional)
 name_pronunciation: Yaohui Li
