@@ -42,14 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+
   - block: experience
     content:
       title: Experience
@@ -71,7 +64,7 @@ sections:
           date_end: ''
           description: Interested in material property prediction and generation with AI
         - title: Phd in Computer Science
-          company: Nanjing University
+          company: School of Artificial Intelligence, Nanjing University
           company_url: 'http://www.nju.edu.cn'
           company_logo: nju
           location: Nanjing, China
@@ -82,7 +75,7 @@ sections:
               * Label-/Parameter-Efficient Learning
               * AI for Science
               * Multimodal Learning  
-        - title: Master in Control Science
+        - title: M.Eng in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
           company_logo: nju
@@ -94,7 +87,7 @@ sections:
               * Few-Shot Learning
               * Affective Computing
               * Computer Vision
-        - title: Under Graduate in Control Science
+        - title: B.Eng in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
           company_logo: nju
@@ -248,6 +241,14 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: skills
+      content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
