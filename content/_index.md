@@ -65,8 +65,7 @@ sections:
         - title: Joint Research Student
           company: Institute for AI Industry Research, Tsinghua University
           company_url: 'https://air.tsinghua.edu.cn/'
-          company_logo:
-            filename:thu.jpeg
+          company_logo: thu
           location: Beijing, China
           date_start: '2023-10-01'
           date_end: ''
@@ -74,7 +73,7 @@ sections:
         - title: Phd in Computer Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
-          company_logo: org-x
+          company_logo: nju
           location: Nanjing, China
           date_start: '2023-09-01'
           date_end: ''
@@ -86,7 +85,7 @@ sections:
         - title: Master in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
-          company_logo: org-x
+          company_logo: nju
           location: Nanjing, China
           date_start: '2020-09-01'
           date_end: '2023-06-01'
@@ -98,7 +97,7 @@ sections:
         - title: Under Graduate in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
-          company_logo: org-x
+          company_logo: nju
           location: Nanjing, China
           date_start: '2016-09-01'
           date_end: '2020-06-01'
