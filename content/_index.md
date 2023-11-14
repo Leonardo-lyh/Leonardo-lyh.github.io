@@ -62,7 +62,7 @@ sections:
           location: Beijing, China
           date_start: '2023-10-01'
           date_end: ''
-          description: Interested in AI-driven <b>/Material Property</b> Prediction and Inverse Design
+          description: Interested in AI-driven <b>Material Property Prediction</b> and <b>Inverse Design</b>
         - title: Phd in Computer Science
           company: School of Artificial Intelligence, Nanjing University
           company_url: 'http://www.nju.edu.cn'
@@ -70,7 +70,7 @@ sections:
           location: Nanjing, China
           date_start: '2023-09-01'
           date_end: ''
-          description: Interested in Efficient Learning, AI for Science and Multimodal Learning  
+          description: Interested in <b>Efficient Learning</b>, <b>AI for Science</b> and <b>Multimodal Learning</b>
         - title: M.Eng in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
@@ -78,7 +78,7 @@ sections:
           location: Nanjing, China
           date_start: '2020-09-01'
           date_end: '2023-06-01'
-          description: Interested in Few-Shot Learning, Affective Computing and Computer Vision
+          description: Interested in <b>Few-Shot Learning</b>, <b>Affective Computing</b> and <b>Computer Vision</b>
         - title: B.Eng in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
