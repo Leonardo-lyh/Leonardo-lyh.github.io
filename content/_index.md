@@ -70,7 +70,7 @@ sections:
           location: Nanjing, China
           date_start: '2023-09-01'
           date_end: ''
-          description: Interested in: Efficient Learning, AI for Science and Multimodal Learning  
+          description: Interested in Efficient Learning, AI for Science and Multimodal Learning  
         - title: M.Eng in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
@@ -78,7 +78,7 @@ sections:
           location: Nanjing, China
           date_start: '2020-09-01'
           date_end: '2023-06-01'
-          description: Interested in: Few-Shot Learning, Affective Computing and Computer Vision
+          description: Interested in Few-Shot Learning, Affective Computing and Computer Vision
         - title: B.Eng in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
