@@ -62,7 +62,7 @@ sections:
           location: Beijing, China
           date_start: '2023-10-01'
           date_end: ''
-          description: Interested in AI-driven material property prediction and inverse design
+          description: Interested in AI-driven <b>/Material Property</b> Prediction and Inverse Design
         - title: Phd in Computer Science
           company: School of Artificial Intelligence, Nanjing University
           company_url: 'http://www.nju.edu.cn'
