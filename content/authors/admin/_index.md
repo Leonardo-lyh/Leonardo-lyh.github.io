@@ -3,10 +3,10 @@
 title: 耀辉 李
 
 # Name pronunciation (optional)
-name_pronunciation: Yaohui Li
+name_pronunciation: Yau Huei Li
 
 # Full name (for SEO)
-first_name: Yaohui
+first_name: Yau Huei
 last_name: Li
 
 # Status emoji
