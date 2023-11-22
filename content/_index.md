@@ -71,6 +71,14 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: Interested in <b>Efficient Learning</b>, <b>AI for Science</b> and <b>Multimodal Learning</b>
+        - title: Research Intern
+          company: OPPO Research Institute
+          company_url: 'https://www.oppo.com/en/proposal/'
+          company_logo: oppo
+          location: Shanghai, China
+          date_start: '2021-06-23'
+          date_end: '2022-07-23'
+          description: Interested in <b>Few-Shot Learning</b> and <b>Affective Computing</b>
         - title: M.Eng. in Control Science
           company: Nanjing University
           company_url: 'http://www.nju.edu.cn'
