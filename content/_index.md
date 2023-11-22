@@ -72,7 +72,7 @@ sections:
           date_end: ''
           description: Interested in <b>Efficient Learning</b>, <b>AI for Science</b> and <b>Multimodal Learning</b>
         - title: Research Intern
-          company: OPPO Research Institute
+          company: OPPO Research Institute of Shanghai
           company_url: 'https://www.oppo.com/en/proposal/'
           company_logo: oppo
           location: Shanghai, China
@@ -94,7 +94,7 @@ sections:
           location: Nanjing, China
           date_start: '2016-09-01'
           date_end: '2020-06-01'
-          description: 
+          description: Interested in <b>Robots</b> and <b>UAVs</b>
     design:
       columns: '2'
   - block: accomplishments
