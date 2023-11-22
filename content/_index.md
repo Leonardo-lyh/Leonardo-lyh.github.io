@@ -56,7 +56,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Joint Research Student
-          company: Institute for AI Industry Research, Tsinghua University
+          company: <b>Institute for AI Industry Research</b>, <b>Tsinghua University</b>
           company_url: 'https://air.tsinghua.edu.cn/'
           company_logo: thu
           location: Beijing, China
@@ -64,7 +64,7 @@ sections:
           date_end: ''
           description: Interested in AI-driven <b>Material Property Prediction</b> and <b>Inverse Design</b>
         - title: Phd in Computer Science
-          company: School of Artificial Intelligence, Nanjing University
+          company: <b>School of Artificial Intelligence</b>, <b>Nanjing University</b>
           company_url: 'http://www.nju.edu.cn'
           company_logo: nju
           location: Nanjing, China
@@ -72,7 +72,7 @@ sections:
           date_end: ''
           description: Interested in <b>Efficient Learning</b>, <b>AI for Science</b> and <b>Multimodal Learning</b>
         - title: Research Intern
-          company: OPPO Research Institute of Shanghai
+          company: <b>OPPO Research Institute of Shanghai</b>
           company_url: 'https://www.oppo.com/en/proposal/'
           company_logo: oppo
           location: Shanghai, China
@@ -80,7 +80,7 @@ sections:
           date_end: '2022-07-23'
           description: Interested in <b>Few-Shot Learning</b> and <b>Affective Computing</b>
         - title: M.Eng. in Control Science
-          company: Nanjing University
+          company: <b>Nanjing University</b>
           company_url: 'http://www.nju.edu.cn'
           company_logo: nju
           location: Nanjing, China
@@ -88,7 +88,7 @@ sections:
           date_end: '2023-06-01'
           description: Interested in <b>Few-Shot Learning</b>, <b>Affective Computing</b> and <b>Computer Vision</b>
         - title: B.Eng. in Control Science
-          company: Nanjing University
+          company: <b>Nanjing University</b>
           company_url: 'http://www.nju.edu.cn'
           company_logo: nju
           location: Nanjing, China
