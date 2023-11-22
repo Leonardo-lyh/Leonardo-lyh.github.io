@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 耀辉 李
+title: 李 耀 辉
 
 # Name pronunciation (optional)
-name_pronunciation: Yau Huei Li
+name_pronunciation: Li Yau Huei
 
 # Full name (for SEO)
 first_name: Yao Hui
