@@ -6,7 +6,7 @@ title: 耀辉 李
 name_pronunciation: Yau Huei Li
 
 # Full name (for SEO)
-first_name: Yau Huei
+first_name: Yao Hui
 last_name: Li
 
 # Status emoji
