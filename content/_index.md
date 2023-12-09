@@ -139,7 +139,7 @@ sections:
           url: ''
     design:
       columns: '2'
-    - block: collection
+  - block: collection
     content:
       title: Recent Publications
       text: |-
