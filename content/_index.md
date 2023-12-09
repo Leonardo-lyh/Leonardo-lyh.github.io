@@ -97,7 +97,7 @@ sections:
           description: Interested in <b>Robots</b> and <b>UAVs</b>
     design:
       columns: '2'
-  - block: accomplishment
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Honors'
