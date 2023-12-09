@@ -97,6 +97,7 @@ sections:
           description: Interested in <b>Robots</b> and <b>UAVs</b>
     design:
       columns: '2'
+    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -139,33 +140,21 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
+    
+    - block: collection
     content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       filters:
         folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+          - publication
+        exclude_featured: true
     design:
-      # Choose a layout view
-      view: compact
       columns: '2'
+      view: citation
   - block: portfolio
     id: projects
     content:
@@ -193,39 +182,8 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+
+    
   - block: collection
     id: talks
     content:
@@ -236,11 +194,16 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
+    
+  - block: markdown
     content:
-      title: Popular Topics
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
     design:
-      columns: '2'
+      columns: '1'
+
   - block: contact
     id: contact
     content:
