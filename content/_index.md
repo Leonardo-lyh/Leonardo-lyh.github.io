@@ -97,7 +97,6 @@ sections:
           description: Interested in <b>Robots</b> and <b>UAVs</b>
     design:
       columns: '2'
-    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -140,7 +139,6 @@ sections:
           url: ''
     design:
       columns: '2'
-    
     - block: collection
     content:
       title: Recent Publications
@@ -181,9 +179,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-
-    
+      flip_alt_rows: false  
   - block: collection
     id: talks
     content:
@@ -203,7 +199,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-
   - block: contact
     id: contact
     content:
