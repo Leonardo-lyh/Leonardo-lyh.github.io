@@ -111,8 +111,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: http://www.moe.gov.cn/
-          date_end: '2022-11-1'
-          date_start: '2022-11-1'
+          date_end: '2022-11-01'
+          date_start: '2022-11-01'
           description: 'Highest Scholarship in China'
           icon: coursera
           organization: Coursera
