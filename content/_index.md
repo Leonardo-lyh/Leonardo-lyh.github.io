@@ -120,7 +120,7 @@ sections:
                         Industrial Bank Scholarship, Jiangsu Province, 2021
                         1st Prize, Academic Scholarship, Nanjing University, 2020 & 2022
                         National Grand Prize, Educational Robot Competition Of China (ERCC), 2018
-          icon: <font-awesome-icon :icon="['fass', 'trophy-star']" />
+          icon: trophy-star
           organization: 
           organization_url: 
           title: Academic Awards
@@ -130,10 +130,6 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
