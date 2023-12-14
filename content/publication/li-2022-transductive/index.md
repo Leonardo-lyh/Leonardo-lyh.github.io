@@ -2,7 +2,7 @@
 title: Transductive aesthetic preference propagation for personalized image aesthetics
   assessment
 authors:
-- Yaohui Li
+- <b>Yaohui Li</b>
 - Yuzhe Yang
 - Huaxiong Li
 - Haoxing Chen
