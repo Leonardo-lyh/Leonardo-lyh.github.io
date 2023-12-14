@@ -111,8 +111,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end:
-          date_start: 
+          date_end:''
+          date_start: ''
           description: |2-
                         Outstanding Graduates, Nanjing University, 2023
                         National Scholarship, highest Scholarship in China, Ministry of Education, 2022
