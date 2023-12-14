@@ -3,7 +3,7 @@
 title: 李 耀 辉
 
 # Name pronunciation (optional)
-name_pronunciation:  Li Yaohui
+name_pronunciation:  Li Yao Hui
 
 # Full name (for SEO)
 first_name: Yao Hui
