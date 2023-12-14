@@ -104,18 +104,18 @@ sections:
       date_format: Jan 2006
       # Accomplishments.
       items:
-        - title: Academic Awards
+        - title: Honors
+          company: <b>Academic Awards</b>
           date_end: ''
           date_start: '2016-09-01'
           description: |2-
-                        * <b>Outstanding Graduates</b>, Nanjing University, 2023
+                        * Outstanding Graduates, Nanjing University, 2023
                         * National Scholarship, highest Scholarship in China, Ministry of Education, 2022
                         * Outstanding Graduate Student, Nanjing University, 2021
                         * Industrial Bank Scholarship, Jiangsu Province, 2021
                         * 1st Prize, Academic Scholarship, Nanjing University, 2020 & 2022
                         * National Grand Prize, Educational Robot Competition Of China (ERCC), 2018
           icon: trophy
-          organization: 
     design:
       columns: '1'
   - block: collection
