@@ -104,8 +104,7 @@ sections:
       date_format: Jan 2006
       # Accomplishments.
       items:
-        - title: Honors
-          company: <b>Academic Awards</b>
+        - title: <b>Academic Awards</b>
           date_end: ''
           date_start: '2016-09-01'
           description: |2-
