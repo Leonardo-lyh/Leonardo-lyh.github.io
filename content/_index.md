@@ -96,7 +96,7 @@ sections:
           date_end: '2020-06-01'
           description: Interested in <b>Robots</b> and <b>UAVs</b>
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -110,17 +110,17 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: http://www.moe.gov.cn/
+        - certificate_url: 
           date_end: ''
           date_start: '2016-09-01'
           description: |2-
                         Outstanding Graduates, Nanjing University, 2023 
-                        National Scholarship, Highest Scholarship in China, Ministry of Education, 2022
+                        National Scholarship, highest Scholarship in China, Ministry of Education, 2022
                         Outstanding Graduate Student, Nanjing University, 2021
                         Industrial Bank Scholarship, Jiangsu Province, 2021
                         1st Prize, Academic Scholarship, Nanjing University, 2020 & 2022
                         National Grand Prize, Educational Robot Competition Of China (ERCC), 2018
-          icon: 
+          icon: <font-awesome-icon :icon="['fass', 'trophy-star']" />
           organization: 
           organization_url: 
           title: Academic Awards
@@ -139,7 +139,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: portfolio
     id: projects
@@ -176,7 +176,7 @@ sections:
         folders:
           - event
     design:
-      columns: '2'
+      columns: '1'
       view: compact
     
   - block: markdown
