@@ -114,7 +114,7 @@ sections:
           date_end: ''
           date_start: '2016-09-01'
           description: |2-
-                        <b>Outstanding Graduates</b>, Nanjing University, 2023
+                        Outstanding Graduates, Nanjing University, 2023
                         National Scholarship, highest Scholarship in China, Ministry of Education, 2022
                         Outstanding Graduate Student, Nanjing University, 2021
                         Industrial Bank Scholarship, Jiangsu Province, 2021
