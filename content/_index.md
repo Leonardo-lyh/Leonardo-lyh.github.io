@@ -111,7 +111,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end:''
+          date_end: ''
           date_start: ''
           description: |2-
                         Outstanding Graduates, Nanjing University, 2023
