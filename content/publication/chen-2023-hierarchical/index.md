@@ -12,5 +12,5 @@ date: '2023-01-01'
 publishDate: '2023-11-06T16:48:49.704154Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 31st ACM International Conference on Multimedia*'
+publication: '*Proceedings of the 31st ACM International Conference on Multimedia (ACM MM)*'
 ---
