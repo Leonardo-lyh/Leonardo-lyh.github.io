@@ -111,19 +111,25 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: http://www.moe.gov.cn/
-          date_end: '2022-11-01'
-          date_start: '2022-11-01'
-          description: 'Highest Scholarship in China'
-          icon: coursera
-          organization: Coursera
-          organization_url: http://www.moe.gov.cn/
-          title: National Scholarship
-          url: ''
+          date_end: ''
+          date_start: '2016-09-01'
+          description: |2-
+                        Outstanding Graduates, Nanjing University, 2023 
+                        National Scholarship, Highest Scholarship in China, Ministry of Education, 2022
+                        Outstanding Graduate Student, Nanjing University, 2021
+                        Industrial Bank Scholarship, Jiangsu Province, 2021
+                        1st Prize, Academic Scholarship, Nanjing University, 2020 & 2022
+                        National Grand Prize, Educational Robot Competition Of China (ERCC), 2018
+          icon: 
+          organization: 
+          organization_url: 
+          title: Academic Awards
+          url: 
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
