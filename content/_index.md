@@ -106,8 +106,7 @@ sections:
         - title: <b>Academic News</b>
           date_end: '2023.12.01'
           date_start: '2022-01-01'
-          description: |2-
-                        <div style="height: 250px; overflow: auto;">
+          description:  <div style="height: 250px; overflow: auto;">
                         <ul>
                         <li><strong>[2023.09] </strong>One paper on “Visual text editing” is accepted to <a href="https://www.acmmm2023.org/">NeurIPS 2023</a> (CCF-A).</li>	
                         <li><strong>[2023.07] </strong>One paper on “Image composition” is accepted to <a href="https://www.acmmm2023.org/">ACM Multimedia 2023</a> (CCF-A) as oral.</li>
