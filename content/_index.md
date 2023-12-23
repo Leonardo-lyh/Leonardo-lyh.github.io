@@ -104,7 +104,7 @@ sections:
       # Accomplishments.
       items:
         - title: <b>Academic News</b>
-          date_end: '2023.12.01'
+          date_end: '2023-12-01'
           date_start: '2022-01-01'
           description: |2-
                         [2023.12] One paper on "Image composition" is accepted to ICASSP 2023 (CCF-B)
