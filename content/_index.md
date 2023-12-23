@@ -106,18 +106,17 @@ sections:
         - title: <b>Academic News</b>
           date_end: '2023.12.01'
           date_start: '2022-01-01'
-          description:  <div style="height: 250px; overflow: auto;">
-                        <ul>
-                        <li><strong>[2023.09] </strong>One paper on “Visual text editing” is accepted to <a href="https://www.acmmm2023.org/">NeurIPS 2023</a> (CCF-A).</li>	
-                        <li><strong>[2023.07] </strong>One paper on “Image composition” is accepted to <a href="https://www.acmmm2023.org/">ACM Multimedia 2023</a> (CCF-A) as oral.</li>
-                        <li><strong>[2023.01] </strong>One paper on “Few-shot learning” is accepted to <a href="http://engine.scichina.com/doi/10.1007/s11432-022-3700-8">SCIS 2023</a> (CCF-A).</li>
-                        <li><strong>[2022.07] </strong>One paper on “Affective computing” is accepted to <a href="https://2022.acmmm.org/">ACM Multimedia 2022</a> (CCF-A).</li>
-                        <li><strong>[2022.06] </strong>One paper on “Few-shot learning” is accepted to <a href="https://www.icpr2022.com/">ICPR 2022</a>.</li>
-                        <li><strong>[2022.06] </strong>One paper on “Few-shot learning” is accepted to <a href="https://e-nns.org/icann2022/">ICANN 2022</a>.</li>
-                        <li><strong>[2022.05] </strong>One paper on “Few-shot learning” is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">SPL 2022</a>.</li>
-                        <li><strong>[2021.07] </strong>One paper on “Few-shot learning” is accepted to <a href="http://2021.prcv.cn/">PRCV 2021</a>.</li>
-                        </ul>
-                        </div>
+          description: |2-
+                        
+                        [2023.09] One paper on “Visual text editing” is accepted to <a href="https://www.acmmm2023.org/">NeurIPS 2023</a> (CCF-A)	
+                        [2023.07] One paper on “Image composition” is accepted to <a href="https://www.acmmm2023.org/">ACM Multimedia 2023</a> (CCF-A) as oral
+                        [2023.01] One paper on “Few-shot learning” is accepted to <a href="http://engine.scichina.com/doi/10.1007/s11432-022-3700-8">SCIS 2023</a> (CCF-A)
+                        [2022.07] One paper on “Affective computing” is accepted to <a href="https://2022.acmmm.org/">ACM Multimedia 2022</a> (CCF-A)
+                        [2022.06] One paper on “Few-shot learning” is accepted to <a href="https://www.icpr2022.com/">ICPR 2022</a>
+                        [2022.06] One paper on “Few-shot learning” is accepted to <a href="https://e-nns.org/icann2022/">ICANN 2022</a>
+                        [2022.05] One paper on “Few-shot learning” is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97">SPL 2022</a>
+                        [2021.07] One paper on “Few-shot learning” is accepted to <a href="http://2021.prcv.cn/">PRCV 2021</a>
+                        
           icon: 
     design:
       columns: '2'
