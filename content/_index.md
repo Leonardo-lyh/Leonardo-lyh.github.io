@@ -99,42 +99,34 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Recent News
+      title: Accomplishments
       date_format: Jan 2006
       # Accomplishments.
       items:
         - title: <b>Academic News</b>
-          date_end: '2023-12-01'
-          date_start: '2022-01-01'
-          description: |2-
-                        [2023.12] One paper on "Image composition" is accepted to ICASSP 2023 (CCF-B)
-                        [2023.09] One paper on "Visual text editing” is accepted to NeurIPS 2023 (CCF-A)
-                        [2023.07] One paper on "Image composition” is accepted to ACM Multimedia 2023 (CCF-A) as oral
-                        [2023.01] One paper on "Few-shot learning” is accepted to SCIS 2023 (CCF-A)
-                        [2022.07] One paper on "Affective computing” is accepted to ACM Multimedia 2022 (CCF-A)
-                        
-          icon: 
-    design:
-      columns: '2'
-  - block: experience
-    content:
-      title: Honors
-      date_format: Jan 2006
-      # Accomplishments.
-      items:
-        - title: <b>Academic Awards</b>
           date_end: ''
-          date_start: '2016-09-01'
+          date_start: '2022-01-01'
+          company_logo: nju
           description: |2-
-                        🔘 Outstanding Graduates, Nanjing University, 2023
-                        🔘 National Scholarship, highest Scholarship in China, Ministry of Education, 2022
-                        🔘 Outstanding Graduate Student, Nanjing University, 2021
-                        🔘 Industrial Bank Scholarship, Jiangsu Province, 2021
-                        🔘 1st Prize, Academic Scholarship, Nanjing University, 2020 & 2022
-                        🔘 National Grand Prize, Educational Robot Competition Of China (ERCC), 2018
-          icon: 🏆
+                  [2023.12] One paper on "Image composition" is accepted to ICASSP 2023 (CCF-B)
+                  [2023.09] One paper on "Visual text editing” is accepted to NeurIPS 2023 (CCF-A)
+                  [2023.07] One paper on "Image composition” is accepted to ACM Multimedia 2023 (CCF-A) as oral
+                  [2023.01] One paper on "Few-shot learning” is accepted to SCIS 2023 (CCF-A)
+                  [2022.07] One paper on "Affective computing” is accepted to ACM Multimedia 2022 (CCF-A)
+        - title: <b>Academic Awards</b>
+              date_end: ''
+              date_start: '2016-09-01'
+              company_logo: nju
+              description: |2-
+                  🔘 Outstanding Graduates, Nanjing University, 2023
+                  🔘 National Scholarship, highest Scholarship in China, Ministry of Education, 2022
+                  🔘 Outstanding Graduate Student, Nanjing University, 2021
+                  🔘 Industrial Bank Scholarship, Jiangsu Province, 2021
+                  🔘 1st Prize, Academic Scholarship, Nanjing University, 2020 & 2022
+                  🔘 National Grand Prize, Educational Robot Competition Of China (ERCC), 2018
     design:
       columns: '1'
+
   - block: collection
     content:
       title: Publications
