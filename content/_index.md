@@ -129,7 +129,7 @@ sections:
 
   - block: collection
     content:
-      title: Publications
+      title: Selected Publications
       filters:
         folders:
           - publication
