@@ -103,7 +103,7 @@ sections:
       date_format: Jan 2006
       # Accomplishments.
       items:
-        - title: <b>Academic News</b>
+        - title: Academic News
           date_end: ''
           date_start: '2022-01-01'
           company_logo: nju
@@ -113,11 +113,11 @@ sections:
                   [2023.07] One paper on "Image composition” is accepted to ACM Multimedia 2023 (CCF-A) as oral
                   [2023.01] One paper on "Few-shot learning” is accepted to SCIS 2023 (CCF-A)
                   [2022.07] One paper on "Affective computing” is accepted to ACM Multimedia 2022 (CCF-A)
-        - title: <b>Academic Awards</b>
-              date_end: ''
-              date_start: '2016-09-01'
-              company_logo: nju
-              description: |2-
+        - title: Academic Awards
+          date_end: ''
+          date_start: '2016-09-01'
+          company_logo: nju
+          description: |2-
                   🔘 Outstanding Graduates, Nanjing University, 2023
                   🔘 National Scholarship, highest Scholarship in China, Ministry of Education, 2022
                   🔘 Outstanding Graduate Student, Nanjing University, 2021
